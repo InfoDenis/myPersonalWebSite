@@ -1,2 +1,3 @@
 # myPersonalWebSite
-Site com informações sobre mim, minha carreira, formação e minhas habilidades
+Iniciando um novo projeto...
+Site com informações sobre mim, minha carreira, formação e minhas habilidades.
