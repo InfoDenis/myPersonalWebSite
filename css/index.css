@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header_logo-img{
+  height: 120px;
+  width: 100px;
+}
+
+.header_sub_logo{
+  font-size: 24px;
+}
+
+.header_titulo{
+  font-size: 24px;
+}
+
+.body_sub_titulos{
+  font-size: 22px;
+  color: rgba(160, 36, 240, 1);
+}
+
+ul{
+  list-style: none;
+}
+
+.body_experiencia::before{
+  content: "\1F852";
+  font-size: 20px;
+  color: rgba(160, 36, 240, 1);
+}
+
+.body_sub_titulos p{
+  line-height: 5px;
+}
+
+.body_titulo_empresa{
+  font-weight: 500;
+}
+
+.logos_contato{
+  margin: 3px;
+  height: 30px;
+  width: 30px;
+}
